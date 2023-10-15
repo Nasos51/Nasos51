@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nasos51
-- 👀 I’m interested in becoming a good dev
-- 🌱 I’m currently learning JavaScript, Python and C++
+- 👀 I’m interested in becoming a good software engineer
+- 🌱 I’m currently learning Java, Python and C++
 - 💞️ I’m looking to collaborate on many projects to improve my skills and help people
 - 📫 How to reach me: nasosdeliadis97@gmail.com
 
